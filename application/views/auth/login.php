@@ -61,9 +61,9 @@
       <div class="row">
         <div class="col-xs-8">
           <div class="checkbox icheck">
-            <!-- <label>
+            <label>
               <input type="checkbox" required> Remember Me
-						</label> -->
+						</label>
 						
 						<p>
 							<?php echo lang('login_remember_label', 'remember');?>
